@@ -11,7 +11,7 @@
   + Includes (as well as many other topics):
   + [How to use a multimeter](https://www.ifixit.com/Guide/How+To+Use+A+Multimeter/25632)
   + [Electronic 101 **Full Soldering Tutorial**](https://www.ifixit.com/Guide/Electronics+Skills+Kit+101/6190)
-
++ [FRC How to wire a robot guide](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-1/how-to-wire-a-robot.html)
 # These are links that look useful for soldering
 --- 
 + [SparkFun's tutorial section about wire splicing again](https://learn.sparkfun.com/tutorials/working-with-wire#how-to-splice-wires)
